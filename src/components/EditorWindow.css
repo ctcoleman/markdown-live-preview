@@ -1,0 +1,12 @@
+#textarea-container {
+    text-align: center;
+}
+
+#editor {
+    display: block;
+    width: 80%;
+    max-width: 95%;
+    height: 30vh;
+    max-height: 50vh;
+    margin: auto;
+}
